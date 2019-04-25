@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
+    <!-- YOUR ICON PACK NAME -->
+    <string name="app_name">Cockpit</string>
+
+    <string name="theme_title">Cockpit Icons</string>
+    <string name="theme_name">Cockpit Icons</string>
+
+    <string name="theme_author">Tobias Fried</string>
+    <string name="developer_name">Tobias Fried</string>
+    <string name="developerName">Tobias Fried</string>
+    <string name="authorName">Tobias Fried</string>
+
+    <string name="authorLink">http://github.com/rektdeckard</string>
+    <string name="developer_link">http://github.com/rektdeckard</string>
+
+    <string name="theme_description">A minimal icon pack inspired by aircraft cockpit design, with accessible info
+        and simple, bold colors to make a sleek, AMOLED-friendly dashboard display for your home screen.</string>
+    <string name="theme_info">A minimal icon pack inspired by aircraft cockpit design, with accessible info
+        and simple, bold colors to make a sleek, AMOLED-friendly dashboard display for your home screen.</string>
+    <string name="theme_ad_msg">A minimal icon pack inspired by aircraft cockpit design, with accessible info
+        and simple, bold colors to make a sleek, AMOLED-friendly dashboard display for your home screen.</string>
+
+    <string name="theme_feature">tobysdash_comps_view_2</string>
+
+    <string name="theme_preview1">tobysdash_comps_view_2</string>
+    <string name="theme_preview2">tobysdash_comps_view_2</string>
+
+    <string name="iconpack">com.tobiasfried.cockpiticons</string>
+
+</resources>
