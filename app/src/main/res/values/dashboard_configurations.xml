@@ -26,7 +26,7 @@
     <!-- CONFIG: HOME -->
 
     <!-- Home title must be defined -->
-    <string name="home_title">Cockpit Icons</string>
+    <string name="home_title">Cockpit</string>
 
     <!-- Home image
     * If you want to use image from url, just put the url here
@@ -44,7 +44,7 @@
     * landscape
     * square
     -->
-    <string name="home_image_style">card_landscape</string>
+    <string name="home_image_style">card_square</string>
     
     <!-- Home description
     - If you don't want to show description, just leave this empty -->
@@ -52,7 +52,7 @@
         A minimal icon pack inspired by aircraft cockpit design, with accessibility at its core, and simple, bold colors to make a <i>sleek</i>,
         <i>AMOLED-friendly</i> dashboard display for your home screen.
 
-        Built by Tobias Fried and Designed by <a href="http://abodywithoutorgans.com/">Helena Zhang</a>.
+        Designed by <a href="http://abodywithoutorgans.com/">Helena Zhang</a> and created by <a href="https://github.com/rektdeckard">Tobias Fried</a>.
         ]]></string>
 
     <!-- More apps at Google Play Store
@@ -70,11 +70,11 @@
     *
     * If you want to use solid color, you can put hex color code here
     * ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="navigation_view_header">#33222222</string>
+    <string name="navigation_view_header">#181818</string>
 
     <!-- Navigation view header text
     * Leave empty if you don't want to show any text -->
-    <string name="navigation_view_header_title">Cockpit Icons</string>
+    <string name="navigation_view_header_title"></string>
     
     <!-- CONFIG: APPLY -->
     <!-- Enable or disable apply section -->
@@ -179,22 +179,20 @@
     *
     * If you want to use solid color, you can put hex color code here
     * ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="about_image">cockpit_frame_square</string>
+    <string name="about_image">#242424</string>
 
     <!-- About profile image
     * If you want to use image from url, just put the url here
     * If you want to use image stored in project (drawable folder)
     * just put image name here without the extension (ex: about_profile_image.png -> about_profile_image) -->
-    <string name="about_profile_image">https://i.imgur.com/dRHwl26.jpg</string>
+    <string name="about_profile_image">https://i.imgur.com/sEmEMhx.jpg</string>
 
     <!-- About title above description -->
-    <string name="about_title">Cockpit Icons \nby Tobias Fried</string>
+    <string name="about_title">Tobias Fried</string>
 
     <!-- About description below title -->
     <string name="about_desc"><![CDATA[
-        A minimal icon pack inspired by aircraft cockpit design, with accessible info and simple, bold colors to make a <b>sleek</b>,
-        <i>AMOLED-friendly</i> dashboard display for your home screen. Built by Tobias Fried and Designed by
-        <a href="http://abodywithoutorgans.com/">Helena Zhang</a>.
+        Mobile developer wannabe, mediocre photographer, and kombucha homebrewer from Brooklyn, NY. Making and eating cool things daily.
         ]]></string>
 
     <!-- Social link inside about
@@ -217,7 +215,7 @@
 
     <!-- Contributors dialog
     * Take a look inside res/xml/contributors.xml to add contributors -->
-    <bool name="show_contributors_dialog">false</bool>
+    <bool name="show_contributors_dialog">true</bool>
 
     <!-- CONFIG: DONATE -->
 
@@ -225,7 +223,7 @@
     * Show support development option in navigation view
     * default: true
     * change to false to disable it -->
-    <bool name="enable_donation">false</bool>
+    <bool name="enable_donation">true</bool>
 
     <!-- Take a look inside License.java for donation product -->
 

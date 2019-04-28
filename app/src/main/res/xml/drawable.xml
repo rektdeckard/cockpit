@@ -2,7 +2,13 @@
 <resources>
     <version>1</version>
 
+    <category title="Debug" />
+    <item drawable="calendar_big_text" />
+    <item drawable="calendar_sm_text" />
+    <item drawable="mic_2_lg_thick" />
+
     <category title="Newly Added" />
+    <item drawable="lyft"/>
 
     <category title="Apps" />
     <item drawable="amazon" />
@@ -35,11 +41,11 @@
     <item drawable="google"/>
     <item drawable="google_play"/>
     <item drawable="google_plus"/>
-    <item drawable="hype_machine"/>
-    <item drawable="ia_writer"/>
+    <item drawable="hypemachine"/>
+    <item drawable="iawriter"/>
     <item drawable="instagram"/>
     <item drawable="lyft"/>
-    <item drawable="map_pin"/>
+    <item drawable="navigation"/>
     <item drawable="messages"/>
     <item drawable="messages_alt"/>
     <item drawable="mic"/>
