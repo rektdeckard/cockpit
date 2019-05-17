@@ -1,4 +1,4 @@
-package com.tobiasfried.cockpiticons.services;
+package com.tobiasfried.phosphor.services;
 
 import com.dm.material.dashboard.candybar.services.CandyBarMuzeiService;
 

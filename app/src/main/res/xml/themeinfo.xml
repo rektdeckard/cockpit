@@ -3,7 +3,7 @@
 
     <!-- FOR ATOM LAUNCHER -->
 
-    <packageName>com.tobiasfried.cockpiticons</packageName>
+    <packageName>com.tobiasfried.phosphor</packageName>
     <versionName>1.0.0</versionName>
     <versionCode>100</versionCode>
     <themeName>Theme Name</themeName>

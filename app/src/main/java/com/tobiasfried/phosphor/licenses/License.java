@@ -1,4 +1,4 @@
-package com.tobiasfried.cockpiticons.licenses;
+package com.tobiasfried.phosphor.licenses;
 
 import com.dm.material.dashboard.candybar.items.InAppBilling;
 

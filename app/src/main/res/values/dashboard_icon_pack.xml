@@ -4,10 +4,10 @@
     tools:ignore="MissingTranslation">
 
     <!-- YOUR ICON PACK NAME -->
-    <string name="app_name">Cockpit</string>
+    <string name="app_name">Phosphor</string>
 
-    <string name="theme_title">Cockpit Icons</string>
-    <string name="theme_name">Cockpit Icons</string>
+    <string name="theme_title">Phosphor Dark</string>
+    <string name="theme_name">Phosphor Dark</string>
 
     <string name="theme_author">Tobias Fried</string>
     <string name="developer_name">Tobias Fried</string>
@@ -29,6 +29,6 @@
     <string name="theme_preview1">tobysdash_comps_view_2</string>
     <string name="theme_preview2">tobysdash_comps_view_2</string>
 
-    <string name="iconpack">com.tobiasfried.cockpiticons</string>
+    <string name="iconpack">com.tobiasfried.phosphor</string>
 
 </resources>

@@ -1,9 +1,9 @@
-package com.tobiasfried.cockpiticons.activities;
+package com.tobiasfried.phosphor.activities;
 
 import android.support.annotation.NonNull;
 
 import com.dm.material.dashboard.candybar.activities.CandyBarMuzeiActivity;
-import com.tobiasfried.cockpiticons.services.MuzeiService;
+import com.tobiasfried.phosphor.services.MuzeiService;
 
 public class MuzeiActivity extends CandyBarMuzeiActivity {
 

@@ -1,4 +1,4 @@
-package com.tobiasfried.cockpiticons.applications;
+package com.tobiasfried.phosphor.applications;
 
 import android.support.annotation.NonNull;
 

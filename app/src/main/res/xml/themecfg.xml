@@ -2,7 +2,7 @@
 <theme>
     <version>1</version>
 
-    <pkgName>com.tobiasfried.cockpiticons</pkgName>
+    <pkgName>com.tobiasfried.phosphor</pkgName>
 	<themeName>Cockpit Icons</themeName>
 	<themeInfo>A minimal icon pack inspired by aircraft cockpit design, with accessible info and simple, bold colors to make a sleek,
 		AMOLED-friendly dashboard display for your home screen. Built by Tobias Fried and Designed by Helena Zhang.</themeInfo>

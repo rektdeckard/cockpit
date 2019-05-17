@@ -1,10 +1,10 @@
-package com.tobiasfried.cockpiticons.activities;
+package com.tobiasfried.phosphor.activities;
 
 import android.support.annotation.NonNull;
 
 import com.dm.material.dashboard.candybar.activities.CandyBarSplashActivity;
 import com.dm.material.dashboard.candybar.activities.configurations.SplashScreenConfiguration;
-import com.tobiasfried.cockpiticons.R;
+import com.tobiasfried.phosphor.R;
 
 public class SplashActivity extends CandyBarSplashActivity {
 
