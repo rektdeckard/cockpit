@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="colorPrimary">#368CDA</color>
-    <color name="colorPrimaryDark">#1B6DB9</color>
-    <color name="colorAccent">#FF6FD2B9</color>
+    <color name="colorPrimary">#FF111111</color>
+    <color name="colorPrimaryDark">#FF000000</color>
+    <color name="colorAccent">#FFFA5245</color>
 
     <color name="darkColorPrimary">#242424</color>
     <color name="darkColorPrimaryDark">#242424</color>
@@ -15,21 +15,21 @@
     <color name="navigationBarDark">#000000</color>
 
     <!-- Splash Screen -->
-    <color name="splashColor">#111111</color>
+    <color name="splashColor">#222222</color>
 
     <!-- Navigation View -->
+    <color name="navigationViewBackground">#FFFFFF</color>
     <color name="navigationViewTitle">#FFDDDDDD</color>
     <color name="navigationViewTitleBack">#181818</color>
-
-    <color name="navigationViewText">#505A64</color>
+    <color name="navigationViewText">#FF000000</color>
     <color name="navigationViewTextDark">#FFDDDDDD</color>
-    <color name="navigationViewTextSelected">#368CDA</color>
-    <color name="navigationViewTextSelectedDark">#000000</color>
+    <color name="navigationViewTextSelected">@color/colorAccent</color>
+    <color name="navigationViewTextSelectedDark">#FF000000</color>
     <color name="navigationViewSelectedBackground">#00000000</color>
     <color name="navigationViewSelectedBackgroundDark">@color/darkColorAccent</color>
 
     <!-- Swipe Refresh -->
-    <color name="swipeRefresh">#FF6FD2B9</color>
+    <color name="swipeRefresh">@color/colorAccent</color>
 
     <!-- Toolbar -->
     <color name="toolbarIcon">#FFFFFFFF</color>
@@ -50,13 +50,13 @@
     <!-- Ripple -->
     <color name="rippleColor">#55000000</color>
     <color name="rippleColorDark">#55FFFFFF</color>
-    <color name="rippleAccent">#3323BEA5</color>
+    <color name="rippleAccent">#88FA5245</color>
     <color name="rippleAccentDark">#3323BEA5</color>
 
     <!-- Attributes -->
     <color name="mainBackground">#FAFAFA</color>
     <color name="mainBackgroundDark">#111111</color>
-    <color name="primaryText">#484848</color>
+    <color name="primaryText">#000000</color>
     <color name="primaryTextDark">#FFDDDDDD</color>
     <color name="secondaryText">#777777</color>
     <color name="secondaryTextDark">#FFBBBBBB</color>

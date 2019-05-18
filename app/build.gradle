@@ -48,5 +48,6 @@ dependencies {
      * 5. Clean project
      * 6. Done
      */
-//    implementation 'com.github.danimahardhika.candybar-library:core:3.5.0-b4'
+   implementation 'com.github.danimahardhika.candybar-library:core:3.5.0-b4'
+//    implementation 'com.github.rektdeckard:candybar-library:master-SNAPSHOT'
 }
