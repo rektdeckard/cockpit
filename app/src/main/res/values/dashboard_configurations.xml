@@ -38,7 +38,7 @@
     *
     * If you want to use solid color, you can put hex color code here
     * ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="home_image">phosphor_carbon_comp_square</string>
+    <string name="home_image">phosphor_carbon_bleed_square_gradient_alt</string>
 
     <!-- Home image style
     * Available choices:
@@ -47,7 +47,7 @@
     * landscape
     * square
     -->
-    <string name="home_image_style">card_square</string>
+    <string name="home_image_style">card_landscape</string>
     
     <!-- Home description
     - If you don't want to show description, just leave this empty -->
@@ -125,7 +125,7 @@
     * but you also want user able to make 10 request again after update, then enable this option
     * default: false
     * change to true to enable it -->
-    <bool name="reset_icon_request_limit">false</bool>
+    <bool name="reset_icon_request_limit">true</bool>
 
     <!-- Enable or disable premium request
     * default: false

@@ -7,9 +7,9 @@
     <bool name="enableIconPack">true</bool>
 
     <!-- Apex Color Settings -->
-    <color name="drawer_background_color">#55000000</color>
+    <color name="drawer_background_color">#55FFFFFF</color>
     <color name="drawer_icon_dark">#ff8b8b8b</color>
-    <color name="drawer_icon_text_color">#ffffffff</color>
+    <color name="drawer_icon_text_color">#ff000000</color>
     <color name="drawer_list_selector_dark_pressed">#594f4f4f</color>
     <color name="drawer_list_selector_light_pressed">#59c3c3c3</color>
     <color name="drawer_selected_dark">#0f000000</color>

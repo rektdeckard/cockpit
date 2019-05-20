@@ -2,11 +2,6 @@
 <resources>
     <version>1</version>
 
-    <category title="Debug" />
-    <item drawable="calendar_big_text" />
-    <item drawable="calendar_sm_text" />
-    <item drawable="mic_2_lg_thick" />
-
     <category title="Newly Added" />
     <item drawable="lyft"/>
 

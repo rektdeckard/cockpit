@@ -6,7 +6,7 @@
     <packageName>com.tobiasfried.phosphor</packageName>
     <versionName>1.0.0</versionName>
     <versionCode>100</versionCode>
-    <themeName>Theme Name</themeName>
+    <themeName>Phosphor Carbon</themeName>
 
     <!-- Default Component Color -->
     <themePointColor>#ffffff</themePointColor>

@@ -4,10 +4,10 @@
     tools:ignore="MissingTranslation">
 
     <!-- YOUR ICON PACK NAME -->
-    <string name="app_name">Phosphor</string>
+    <string name="app_name">Phosphor Carbon</string>
 
-    <string name="theme_title">Phosphor Dark</string>
-    <string name="theme_name">Phosphor Dark</string>
+    <string name="theme_title">Phosphor Carbon</string>
+    <string name="theme_name">Phosphor Carbon</string>
 
     <string name="theme_author">Tobias Fried</string>
     <string name="developer_name">Tobias Fried</string>
