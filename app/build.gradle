@@ -2,6 +2,10 @@ apply plugin: 'com.android.application'
 
 android {
 
+    signingConfigs {
+        mykey {
+        }
+    }
     compileSdkVersion 28
 
     android.applicationVariants.all { variant ->
@@ -13,7 +17,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.tobiasfried.cockpiticons"
+        applicationId 'com.tobiasfried.phosphor'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
         versionCode 1
