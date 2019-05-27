@@ -17,6 +17,9 @@
         <item>app_,</item>
         <!-- Word "icon_" will be replaced with "app_" -->
         <item>icon_,app_</item>
+
+        <item>onepassword,1password</item>
+
     </string-array>
 
 </resources>
