@@ -9,14 +9,11 @@
     <item drawable="adw_launcher" />
     <item drawable="amazon_kindle" />
     <item drawable="amazon_video" />
-    <item drawable="amazon_video_alt" />
-    <item drawable="angry_birds" />
+\    <item drawable="angry_birds" />
     <item drawable="candy_crush" />
     <item drawable="capital_one" />
     <item drawable="clash_of_clans" />
-    <item drawable="clash_of_clans_alt" />
     <item drawable="clash_royale" />
-    <item drawable="clash_royale_alt" />
     <item drawable="google_digital_wellbeing"/>
     <item drawable="google_wifi"/>
     <item drawable="samsung_internet" />
@@ -64,19 +61,14 @@
     <item drawable="drops" />
     <item drawable="duolingo" />
     <item drawable="duolingo_alt" />
-    <item drawable="duolingo_alt_2" />
     <item drawable="education" />
-    <item drawable="education_alt" />
+    <item drawable="education" />
     <item drawable="headspace"/>
-    <item drawable="headspace_alt_1"/>
-    <item drawable="headspace_alt_2"/>
-    <item drawable="headspace_headphones"/>
-    <item drawable="headspace_squiggly"/>
+    <item drawable="headspace_alt"/>
 
     <category title="Food" />
     <item drawable="dominos" />
     <item drawable="doordash" />
-    <item drawable="doordash_alt" />
     <item drawable="fork" />
     <item drawable="grubhub" />
     <item drawable="postmates" />
@@ -87,11 +79,8 @@
     <item drawable="angry_birds" />
     <item drawable="candy_crush" />
     <item drawable="clash_of_clans" />
-    <item drawable="clash_of_clans_alt" />
     <item drawable="clash_royale" />
-    <item drawable="clash_royale_alt" />
     <item drawable="discord" />
-    <item drawable="discord_alt" />
     <item drawable="doodle_jump" />
     <item drawable="games" />
     <item drawable="games_alt" />
@@ -114,7 +103,6 @@
     <item drawable="google_drive"/>
     <item drawable="google_duo"/>
     <item drawable="google_fi"/>
-    <item drawable="google_fi_alt"/>
     <item drawable="google_fit"/>
     <item drawable="google_hangouts"/>
     <item drawable="google_home"/>
@@ -153,13 +141,12 @@
     <item drawable="boost_for_reddit" />
     <item drawable="bumble" />
     <item drawable="chat" />
+    <item drawable="dating"/>
     <item drawable="discord" />
-    <item drawable="discord_alt" />
     <item drawable="email" />
     <item drawable="facebook" />
     <item drawable="facebook_alt" />
     <item drawable="facebook_messenger" />
-    <item drawable="facebook_messenger_alt" />
     <item drawable="fenix" />
     <item drawable="foursquare" />
     <item drawable="gmail" />
@@ -183,7 +170,6 @@
     <item drawable="skype"/>
     <item drawable="slack"/>
     <item drawable="snapchat"/>
-    <item drawable="snapchat_alt"/>
     <item drawable="social"/>
     <item drawable="sync"/>
     <item drawable="telegram"/>
@@ -214,7 +200,6 @@
     <item drawable="hulu"/>
     <item drawable="hype_machine"/>
     <item drawable="iheartradio"/>
-    <item drawable="iheartradio_alt"/>
     <item drawable="music"/>
     <item drawable="netflix"/>
     <item drawable="pandora"/>
@@ -252,14 +237,10 @@
     <item drawable="news_alt"/>
     <item drawable="nytimes"/>
     <item drawable="nytimes_alt"/>
-    <item drawable="nytimes_alt_2"/>
-    <item drawable="nytimes_complex"/>
-    <item drawable="nytimes_complex_alt"/>
     <item drawable="weatherunderground"/>
 
     <category title="Personalization" />
     <item drawable="action_launcher" />
-    <item drawable="action_launcher_alt" />
     <item drawable="adw_launcher" />
     <item drawable="apex_launcher" />
     <item drawable="evie_launcher" />
@@ -314,7 +295,6 @@
     <item drawable="microsoft_cortana"/>
     <item drawable="microsoft_excel"/>
     <item drawable="microsoft_onenote"/>
-    <item drawable="microsoft_onenote_alt"/>
     <item drawable="microsoft_outlook"/>
     <item drawable="microsoft_powerpoint"/>
     <item drawable="microsoft_word"/>
@@ -324,7 +304,6 @@
     <item drawable="productivity"/>
     <item drawable="todoist"/>
     <item drawable="yahoo"/>
-    <item drawable="yahoo_alt"/>
 
     <category title="Security" />
     <item drawable="lastpass" />
@@ -368,14 +347,14 @@
     <item drawable="audio"/>
     <item drawable="calculator"/>
     <item drawable="camera"/>
-    <item drawable="camera_alt"/>
     <item drawable="clock"/>
     <item drawable="cloud"/>
     <item drawable="cloud_alt"/>
     <item drawable="contacts"/>
     <item drawable="customization"/>
+    <item drawable="document_scan"/>
+    <item drawable="file_manager"/>
     <item drawable="files"/>
-    <item drawable="files_alt"/>
     <item drawable="finance"/>
     <item drawable="fork"/>
     <item drawable="mic"/>
@@ -403,6 +382,5 @@
     <item drawable="samsung_internet" />
     <item drawable="web"/>
     <item drawable="yahoo"/>
-    <item drawable="yahoo_alt"/>
 
 </resources>
