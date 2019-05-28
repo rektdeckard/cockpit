@@ -36,15 +36,15 @@
     <item component="ComponentInfo{com.agilebits.onepassword/com.agilebits.onepassword.activity.LoginActivity}" drawable="onepassword"/>
 
     <!-- 2048 -->
-    <item component="ComponentInfo{com.androbaby.game2048/com.androbaby.game2048.MainActivity}" drawable="twent_forty_eight" />
-    <item component="ComponentInfo{com.androbaby.original2048/com.androbaby.original2048.MainActivity}" drawable="twent_forty_eight" />
-    <item component="ComponentInfo{com.androbros.puzzle2048eng/com.androbros.puzzle2048eng.MainActivity}" drawable="twent_forty_eight" />
-    <item component="ComponentInfo{com.estoty.game2048reborn/org.cocos2dx.cpp.AppActivity}" drawable="twent_forty_eight" />
-    <item component="ComponentInfo{com.funlab.super2048/com.funlab.super2048.MainActivity}" drawable="twent_forty_eight" />
-    <item component="ComponentInfo{com.ketchapp.play2048/com.unity3d.player.UnityPlayerActivity}" drawable="twent_forty_eight" />
-    <item component="ComponentInfo{com.s2apps.game2048/com.s2apps.game2048.SplashScreen}" drawable="twent_forty_eight" />
-    <item component="ComponentInfo{com.soulgit.age2048/com.unity3d.player.UnityPlayerActivity}" drawable="twent_forty_eight" />
-    <item component="ComponentInfo{apps.r.twothousandfortyeight/apps.r.twothousandfortyeight.SplashScreen}" drawable="twent_forty_eight" />
+    <item component="ComponentInfo{com.androbaby.game2048/com.androbaby.game2048.MainActivity}" drawable="twenty_forty_eight" />
+    <item component="ComponentInfo{com.androbaby.original2048/com.androbaby.original2048.MainActivity}" drawable="twenty_forty_eight" />
+    <item component="ComponentInfo{com.androbros.puzzle2048eng/com.androbros.puzzle2048eng.MainActivity}" drawable="twenty_forty_eight" />
+    <item component="ComponentInfo{com.estoty.game2048reborn/org.cocos2dx.cpp.AppActivity}" drawable="twenty_forty_eight" />
+    <item component="ComponentInfo{com.funlab.super2048/com.funlab.super2048.MainActivity}" drawable="twenty_forty_eight" />
+    <item component="ComponentInfo{com.ketchapp.play2048/com.unity3d.player.UnityPlayerActivity}" drawable="twenty_forty_eight" />
+    <item component="ComponentInfo{com.s2apps.game2048/com.s2apps.game2048.SplashScreen}" drawable="twenty_forty_eight" />
+    <item component="ComponentInfo{com.soulgit.age2048/com.unity3d.player.UnityPlayerActivity}" drawable="twenty_forty_eight" />
+    <item component="ComponentInfo{apps.r.twothousandfortyeight/apps.r.twothousandfortyeight.SplashScreen}" drawable="twenty_forty_eight" />
 
     <!-- 7 Cups -->
     <item component="ComponentInfo{com.sevencupsoftea.app/io.trigger.forge.android.core.ForgeActivity}" drawable="seven_cups" />

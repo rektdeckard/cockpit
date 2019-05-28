@@ -16,8 +16,6 @@ public class CandyBar extends CandyBarApplication {
         configuration.setGenerateAppMap(true);
         configuration.setGenerateThemeResources(true);
         configuration.setHomeGridStyle(GridStyle.FLAT);
-        configuration.setShowTabAllIcons(true);
-//        configuration.setTabAllIconsTitle("All");
 
         return configuration;
     }
