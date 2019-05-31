@@ -2,18 +2,18 @@
 <resources>
 
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date">May 27, 2019</string>
+    <string name="changelog_date">May 29, 2019</string>
 
     <!-- Changelog support html formatting
     * <b> for Bold
     * <i> for Italic
     * <u> for Underline -->
     <string-array name="changelog">
-        <item>Reorganized icons page to have clearer tab names</item>
-        <item>Renamed many icons to search and display more clearly</item>
-        <item>Fixed a minor bug when applying to Evie Launcher</item>
-        <item>Created a minor bug when applying to Lawnchair Launcher…</item>
-        <item>Added a whole crock of icons!</item>
+        <item>New Flat UI for the Dashboard</item>
+        <item>Other minor UI changes</item>
+        <item>Changes to the request feature to prevent repeat requests; if any user has already requested an app. you won\'t see it as an option in the list</item>
+        <item>Added a whole crock of icons</item>
+        <item>Updated some older icons to be more consistent with the set</item>
         <item>THANKS FOR YOUR SUPPORT r/AndroidThemes!</item>
     </string-array>
 

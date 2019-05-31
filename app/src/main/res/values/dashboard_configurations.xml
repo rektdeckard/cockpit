@@ -47,7 +47,7 @@
     * landscape
     * square
     -->
-    <string name="home_image_style">card_landscape</string>
+    <string name="home_image_style">landscape</string>
     
     <!-- Home description
     - If you don't want to show description, just leave this empty -->
@@ -61,7 +61,7 @@
     <!-- More apps at Google Play Store
     * Link to google play store developer
     * If you don't want to show this part, just leave this empty -->
-    <string name="google_play_dev">https://play.google.com/store/apps/dev?id=your_developer_id</string>
+    <string name="google_play_dev">https://play.google.com/store/apps/developer?id=Tobias+Fried</string>
 
     <!-- CONFIG: NAVIGATION VIEW HEADER -->
 
@@ -195,7 +195,7 @@
 
     <!-- About description below title -->
     <string name="about_desc"><![CDATA[
-        Mobile developer wannabe, mediocre photographer, and kombucha homebrewer from Brooklyn, NY. Making and eating cool things daily.
+        Mobile developer wannabe, film photographer, and kombucha homebrewer from Brooklyn, NY. Making and eating cool things daily.
         ]]></string>
 
     <!-- Social link inside about
